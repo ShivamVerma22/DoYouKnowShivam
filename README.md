@@ -12,5 +12,3 @@ It is made using the following
 1. NodeJS
 1. readLineSync
 1. chalk (styling)
-
-This app is an entry for neogcamp

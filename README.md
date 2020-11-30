@@ -1,4 +1,4 @@
-# Do-You-Know-Shivam?
+# Do You Know Shivam?
 
 A CLI based quiz app filled with fun loaded questions just how I like it to be.
 Answer these questions to check how better you know me.
